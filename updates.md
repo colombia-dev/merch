@@ -10,7 +10,7 @@ Con respecto a las camisetas, hicimos una encuesta en marzo para definir colores
 Estamos trabajando con la diseñadora de Colombia Dev en un nuevo diseño para sacarlo a la venta junto con el que ya conocemos.
 
 ## Venta ##
-Una vez tengamos el diseño de la camiseta nueva, montaremos una tienda en Shopify con todos los ítems. La tienda estará habilitada por 3 semanas para que se hagan las compras. Cumplidas las 3 semanas, hacemos el pedido con el proveedor. 
+Una vez tengamos el diseño de la camiseta nueva, montaremos una tienda en Shopify con todos los ítems. La tienda estará habilitada por 3 semanas para que se hagan las compras. Cumplidas el plazo, hacemos el pedido con el proveedor. 
 
 ## Logística de entrega ##
 TBD
